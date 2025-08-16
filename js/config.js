@@ -55,7 +55,7 @@ const SITE_CONFIG = {
         api: 'https://api.niuniuzy.me/api.php/provide/vod',
         name: '牛牛资源',
     },
-    <!--seV: {
+    <!-- seV: {
         api: 'https://api.souavzy.vip/api.php/provide/vod',
         name: '搜av资源',
     }, -->
@@ -66,7 +66,7 @@ const SITE_CONFIG = {
     <!-- semao: {
         api: 'https://caiji.semaozy.net/inc/apijson_vod.php',
         name: '色猫吧资源',
-    },-->
+    }, -->
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
