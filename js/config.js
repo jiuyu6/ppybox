@@ -37,7 +37,7 @@ const SITE_CONFIG = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-    极速资源: {
+    jszy: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
     },
