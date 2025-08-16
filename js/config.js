@@ -13,9 +13,9 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: '胖胖鱼TV',
+    name:  'PPYTV',
     url: 'https://www.898869.xyz',
-    description: '免费在线视频搜索与观看平台',
+    description: '胖胖鱼免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
     version: '1.0.3'
 };
@@ -111,11 +111,6 @@ const SITE_CONFIG = {
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
-    },
-    testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
-        adult: true
     },
     }
 };
